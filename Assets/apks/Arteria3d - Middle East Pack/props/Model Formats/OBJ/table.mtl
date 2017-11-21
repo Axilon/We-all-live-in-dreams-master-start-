@@ -1,0 +1,15 @@
+# Wavefront MTL file
+# Creator: Ultimate Unwrap3D Pro v3.15
+# Time: Thu Jun 25 09:24:50 2009
+# num_materials: 1
+
+newmtl market_tents
+Ka 0.000000 0.000000 0.000000
+Kd 0.988235 0.988235 0.988235
+Ks 0.988235 0.988235 0.988235
+d 1.000000
+illum 2
+Ns 0.000000
+map_Kd market_tents.jpg
+
+# num_materials: 1

@@ -1,0 +1,26 @@
+newmtl citywall
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ns 1.000000
+d 1.000000
+illum 2
+map_Kd c:\users\yertari\documents\unity projects\island demo\assets\middle_east_pack\walls\tower0.png
+newmtl citywall_two
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ns 1.000000
+d 1.000000
+illum 2
+map_Kd c:\users\yertari\documents\unity projects\island demo\assets\middle_east_pack\walls\tower1.png
+newmtl FLAGS
+Kd 0.200000 0.200000 0.200000
+Ks 0.200000 0.200000 0.200000
+Ns 0.000000
+d 1.000000
+illum 2
+newmtl Material__1
+Kd 0.200000 0.200000 0.200000
+Ks 0.200000 0.200000 0.200000
+Ns 0.000000
+d 1.000000
+illum 2

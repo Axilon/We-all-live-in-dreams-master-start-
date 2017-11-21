@@ -1,0 +1,16 @@
+# Wavefront MTL file
+# Creator: Ultimate Unwrap3D Pro v3.32
+# URL: http://www.unwrap3d.com
+# Time: Mon Sep 05 17:08:24 2011
+# num_materials: 1
+
+newmtl fruit_veg1
+Ka 0.000000 0.000000 0.000000
+Kd 0.992157 0.992157 0.992157
+Ks 0.992157 0.992157 0.992157
+d 1.000000
+illum 2
+Ns 1.000000
+map_Kd fruit_veg1.dds
+
+# num_materials: 1

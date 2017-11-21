@@ -1,0 +1,33 @@
+# Wavefront MTL file
+# Creator: Ultimate Unwrap3D Pro v3.32
+# URL: http://www.unwrap3d.com
+# Time: Mon Sep 05 17:14:15 2011
+# num_materials: 3
+
+newmtl def_surf_mat
+Ka 0.000000 0.000000 0.000000
+Kd 0.992157 0.992157 0.992157
+Ks 0.150000 0.150000 0.150000
+d 1.000000
+illum 2
+Ns 1.000000
+
+newmtl market_tents
+Ka 0.000000 0.000000 0.000000
+Kd 0.988235 0.988235 0.988235
+Ks 0.988235 0.988235 0.988235
+d 1.000000
+illum 2
+Ns 0.000000
+map_Kd market_tents.jpg
+
+newmtl grains
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+Ns 1.000000
+map_Kd grains.jpg
+
+# num_materials: 3

@@ -1,0 +1,25 @@
+# Wavefront MTL file
+# Creator: Ultimate Unwrap3D Pro v3.32
+# URL: http://www.unwrap3d.com
+# Time: Mon Sep 05 19:27:10 2011
+# num_materials: 2
+
+newmtl citywall
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+Ns 1.000000
+map_Kd citywall.dds
+
+newmtl citywall_two
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+Ns 1.000000
+map_Kd citywall_two.dds
+
+# num_materials: 2
